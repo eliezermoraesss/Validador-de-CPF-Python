@@ -1,5 +1,5 @@
 """
-Exercício Validador de CPFs - aula 45
+Exercício Validador de CPFs - aula 47
 """
 
 while True:
